@@ -1,11 +1,9 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Kubasu Ivan Sakwa</h1>
 <h3 align="center">A passionate fullstack Web developer from Kenya</h3>
 
-<img align="right" alt="coding" width="300" height="200" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif">
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=kubasuivansakwa&label=Profile%20views&color=0e75b6&style=flat" alt="kubasuivansakwa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubasuivansakwa" alt="kubasuivansakwa" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kubasuivansakwa&label=Profile%20views&color=0e75b6&style=flat" alt="kubasuivansakwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cubairving" target="blank"><img src="https://img.shields.io/twitter/follow/cubairving?logo=twitter&style=for-the-badge" alt="cubairving" /></a> </p>
 
