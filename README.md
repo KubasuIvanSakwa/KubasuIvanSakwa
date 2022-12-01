@@ -1,4 +1,4 @@
-
+![logo](https://github.com/KubasuIvanSakwa/KubasuIvanSakwa/blob/main/bann.jpg)
 <h1 align="center">Hi 👋, I'm Kubasu Ivan Sakwa</h1>
 <h3 align="center">A passionate fullstack Web developer from Kenya</h3>
 
