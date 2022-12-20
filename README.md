@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kubasuivansakwa&label=Profile%20views&color=0e75b6&style=flat" alt="kubasuivansakwa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cubairving" target="blank"><img src="https://img.shields.io/twitter/follow/cubairving?logo=twitter&style=for-the-badge" alt="cubairving" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cubairving" target="_blank"><img src="https://img.shields.io/twitter/follow/cubairving?logo=twitter&style=for-the-badge" alt="cubairving" /></a> </p>
 
 - 🔭 I’m currently working on **My first Full Stack app**
 
