@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, javascript, Html, CSS**
 
-- 📫 How to reach me **kubasuivansakwa21@gmail.com**
+- 📫 How to reach me **kubasuivansakwa23@gmail.com**
 
 - ⚡ Fun fact **If you think of it we can create it**
 
