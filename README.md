@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🔭 I’m currently working on **My portfolio app**
+- 🔭 I’m currently working on **My portfolio page**
 
 - 🌱 I’m currently learning **Javascript, ReactJs**
 
