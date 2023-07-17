@@ -1,10 +1,10 @@
 ![logo](https://github.com/KubasuIvanSakwa/KubasuIvanSakwa/blob/main/bann.jpg)
 <h1 align="center">Hi 👋, I'm Kubasu Ivan Sakwa</h1>
-<h3 align="center">A passionate fullstack Web developer from Kenya</h3>
+<h3 align="center">A passionate front-end Web developer from Kenya</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🔭 I’m currently working on **My first Full Stack app**
+- 🔭 I’m currently working on **My portfolio app**
 
 - 🌱 I’m currently learning **Javascript, ReactJs**
 
