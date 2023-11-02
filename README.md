@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kubasu-ivan-sakwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubasu-ivan-sakwa" height="30" width="40" /></a>
-<a href="https://instagram.com/kubasu_ivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubasu_ivan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kubasuivansakwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kubasuivansakwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kubasu-ivan-sakwa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubasu-ivan-sakwa" height="30" width="40" /></a>
+<a href="https://instagram.com/kubasu_ivan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubasu_ivan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kubasuivansakwa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kubasuivansakwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
