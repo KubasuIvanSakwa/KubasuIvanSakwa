@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kubasu Ivan Sakwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-  <p>&nbsp;<img align="center" src="https://wakatime.com/badge/user/018c5834-874e-4239-974e-0c24b763c36b.svg" alt="Wakatime"/></p>
+ [![wakatime](https://wakatime.com/badge/user/018c5834-874e-4239-974e-0c24b763c36b.svg)](https://wakatime.com/@018c5834-874e-4239-974e-0c24b763c36b)
 - 🔭 I’m currently working on **First React app**
 
 - 🌱 I’m currently learning **React, Python, Typescript, Flutter**
