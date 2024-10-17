@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
  [![wakatime](https://wakatime.com/badge/user/018c5834-874e-4239-974e-0c24b763c36b.svg)](https://wakatime.com/@018c5834-874e-4239-974e-0c24b763c36b)
-- 🔭 I’m currently working on **First React app**
+- 🔭 I’m currently working on **Software As A Service project**
 
-- 🌱 I’m currently learning **React, Python, Typescript, Flutter**
+- 🌱 I’m currently learning **Rust, Python, Typescript, Flutter**
 
-- 💬 Ask me about **React, Python, Typescript, Flutter, Javascript**
+- 💬 Ask me about **Rust, React, Python, Typescript, Flutter, Javascript**
 
 - 📫 How to reach me **kubasuivansakwa23@gmail.com**
 
