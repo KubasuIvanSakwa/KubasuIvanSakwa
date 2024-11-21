@@ -9,6 +9,7 @@
 - 💬 Ask me about **Rust, React, Python, Typescript, Flutter, Javascript**
 
 - 📫 How to reach me **kubasuivansakwa23@gmail.com**
+- portfolio **kubasuivansakwa.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
