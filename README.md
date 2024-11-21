@@ -9,7 +9,7 @@
 - 💬 Ask me about **Rust, React, Python, Typescript, Flutter, Javascript**
 
 - 📫 How to reach me **kubasuivansakwa23@gmail.com**
-- portfolio <a href="kubasuivansakwa.vercel.app" target="_blank"> Portfolio </a>
+- <a href="https://kubasuivansakwa.vercel.app/" target="_blank"> Portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
