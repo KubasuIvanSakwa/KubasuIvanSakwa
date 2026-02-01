@@ -2,6 +2,9 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
  [![wakatime](https://wakatime.com/badge/user/018c5834-874e-4239-974e-0c24b763c36b.svg)](https://wakatime.com/@018c5834-874e-4239-974e-0c24b763c36b)
+
+ https://www.codewars.com/users/KubasuIvanSakwa/badges/large
+ 
 - 🔭 I’m currently working on **Software As A Service project**
 
 - 🌱 I’m currently learning **Rust, Python, Typescript, Flutter**
